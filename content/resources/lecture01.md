@@ -5,7 +5,12 @@ description: 'Outline of the lecture covering the following topics: Introduction
   Conditional Probability.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-322-stochastic-estimation-and-control-fall-2004/b19a6c1da8ed456589e1c52bdaadee04_lecture01.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture01.pdf
+type: OCWFile
 uid: b19a6c1d-a8ed-4565-89e1-c52bdaadee04
 ---
