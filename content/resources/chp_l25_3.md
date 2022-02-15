@@ -10,6 +10,5 @@ image_metadata:
 learning_resource_types: []
 resourcetype: Image
 title: chp_l25_3.jpg
-type: OCWImage
 uid: 55d7de77-5fba-9790-0e56-7de1e09b3190
 ---
